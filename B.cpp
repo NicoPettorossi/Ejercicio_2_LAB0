@@ -10,5 +10,5 @@ int B::getB(){
 }
 
 void B::imprimirB(){
-	cout << "Número en clase B: " << this->getB() << endl;
+	cout << "Numero en clase B: " << this->getB() << endl;
 }

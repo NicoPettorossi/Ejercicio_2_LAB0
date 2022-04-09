@@ -1,9 +1,11 @@
 #ifndef C_H
 #define C_H
 
+//forward declarations
 class A;
 class B;
 
+//declaración normal
 class C{
 	
 private:
@@ -17,7 +19,7 @@ public:
 	~C();
 	
 };
-
+//includes
 #include "A.h"
 #include "B.h"
 

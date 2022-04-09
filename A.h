@@ -1,6 +1,6 @@
 #ifndef A_H
 #define A_H
-
+//forward declaration, otra vez
 class B;
 class C;
 

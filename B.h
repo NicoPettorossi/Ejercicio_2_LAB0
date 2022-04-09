@@ -1,10 +1,11 @@
 #ifndef B_H
 #define B_H
 
-
+//forward declarations
 class A;
 class C;
 
+//declaracion normal
 class B{
 	
 private:
